@@ -22,3 +22,6 @@ Olá, eu sou o Felipe Xavier.!
 
  - Github    >>  @Felipe-Xavier23
  - Email     >>  joseefelipeantunes@hotmail.com
+ - Contato   >> (351) 91414-1126
+
+## Moro atualmente em Portugal, Europa
