@@ -1,6 +1,8 @@
 # Bem  vindo(A) ao meu perfil
 
-Olá, eu sou o Felipe Xavier.
+
+Olá, eu sou o Felipe Xavier.!
+[Tarde  - Copia](https://user-images.githubusercontent.com/79708458/228049786-36a3e244-03a6-4b1a-873b-56fd8b920706.png)jkhihi
 
 ## Meus hobbies
 - Ler
@@ -17,6 +19,9 @@ Olá, eu sou o Felipe Xavier.
  
  ## Meus contatos
  
- - Instagram >>  jfelipe.xavier
+
  - Github    >>  @Felipe-Xavier23
  - Email     >>  joseefelipeantunes@hotmail.com
+ - Contato   >> (351) 91414-1126
+
+## Moro atualmente em Portugal, Europa
